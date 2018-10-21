@@ -1,2 +1,2 @@
 # Jobs-Frontend
-Make sure to have angular-material installed as well as angular-material Cdk
+Make sure to install angular-material and angular-material Cdk
